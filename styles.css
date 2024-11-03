@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheader {
+    font-style:italic;
+}
+
+.image {
+    height: 720px;
+    width: auto;
+}
